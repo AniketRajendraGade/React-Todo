@@ -1,0 +1,12 @@
+h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.item-container{
+    text-align: left;
+}
+
+.ab-button{
+    min-width: 80px;
+}
